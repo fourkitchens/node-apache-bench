@@ -1,0 +1,14 @@
+{
+  "url": "http://sample.com/",
+  "graph_title": "combined",
+  "requests": 250,
+  "concurrency_levels": [
+    {
+      "n": 100,
+      "c": 100
+    },
+    10,
+    50,
+    100
+  ]
+}
